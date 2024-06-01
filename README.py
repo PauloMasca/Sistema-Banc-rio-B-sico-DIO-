@@ -59,4 +59,4 @@ while True:
     elif opcao =="0":
         break
     else:
-        print("Operação inválida. Por geeentileza,selecione uma das operações do menu!")
+        print("Operação inválida. Por geeentilezaa2,selecione uma das operações do menu!")
