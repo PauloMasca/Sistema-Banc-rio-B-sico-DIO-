@@ -1,5 +1,5 @@
 # Sistema-Bancario-Basico-DIO-
-print(" ########## Ben-vindo ao banco Paulinho ##TESTE DE PULL do local pro remoto ###########")
+print(" ########## Ben-vindo ao banco Paulinho ###########")
 
 menu = """
 
